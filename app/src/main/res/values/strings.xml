@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EncrypUtils</string>
+    <string name="action_settings">Settings</string>
+    <string name="key">key:%1$s</string>
+    <string name="content">内容:%1$s</string>
+    <string name="encrypt_title">加密演示:%1$s毫秒</string>
+    <string name="decrypt_title">解密演示:%1$s毫秒</string>
+    <string name="random_code">干扰字符: %1$s</string>
+    <string name="encrypt_text">去除干扰码后的真实加密串： %1$s</string>
+    <string name="public_key">动态的public_key： %1$s</string>
+</resources>
