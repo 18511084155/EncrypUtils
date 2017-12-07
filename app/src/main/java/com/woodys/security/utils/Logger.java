@@ -20,7 +20,6 @@ public class Logger {
         LOG_LEVEL =  ALL ;
     }
 
-
     private static Logger getLogger(Object object) {
         logger.setPrefix((null != object) ? object.getClass().getSimpleName() + ": " : APP_TAG+ " : ");
         return logger;

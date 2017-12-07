@@ -22,7 +22,6 @@ public class RandomValidateCode {
         return chars[ran.nextInt(chars.length)];
     }
 
-
     /**
      * 获取干扰字符
      * @param source

@@ -29,7 +29,6 @@ public class NetUtils {
         }
         return appContext;
     }
-
     /**
      * 更具参数拼接加密url字符串(针对参数加密)
      * <p>

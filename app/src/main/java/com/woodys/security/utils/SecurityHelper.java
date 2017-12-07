@@ -85,7 +85,6 @@ public class SecurityHelper {
         }
     }
 
-
     /**
      * DES加密算法
      * @param key key的长度不能够小于8位字节

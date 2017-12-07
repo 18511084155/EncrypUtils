@@ -42,7 +42,6 @@ public class PubKeySignature {
         return public_key;
     }
 
-
     /**
      * 获取签名key
      *

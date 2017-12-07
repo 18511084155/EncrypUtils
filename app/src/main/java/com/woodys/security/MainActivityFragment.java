@@ -43,7 +43,6 @@ public class MainActivityFragment extends Fragment {
         ((TextView)view.findViewById(R.id.tv_content)).setText(getResources().getString(R.string.content,content));
 
 
-
         //简单加密演示
         long s1 = System.currentTimeMillis();
         String encryptTxt = SecurityHelper.encryptDES(key, content);
