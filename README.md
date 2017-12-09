@@ -84,9 +84,9 @@ http://enenba.com/?post=282
 
 例如我们自己的地址：
 
- http://www.weixinkd.com/v3/article/info/get.json?ad=1&catid=0&channel_code=c1005&client_version=2.0.4&from=2&id=5850912&uid=32451sign=582a6c46f16312446c4888c5a9bdcea5
+ http://www.xxx.com/v3/article/info/get.json?ad=1&catid=0&channel_code=c1005&client_version=2.0.4&from=2&id=5850912&uid=32451sign=582a6c46f16312446c4888c5a9bdcea5
 
-修改以后进行加密： http://www.weixinkd.com/v3/article/info/get.json？p=nue3mra3_58=6e8wiw-uuhWCi2sOfwRHRsXMHdKmFL4AlpnuO77OXRdupg1mevaSlF_NBb1rO5V1bw9t2t4DmnzErSkDRc9NCcAW9fGaQY0S00joLpL79Zs3AqqZD52d_RavIRfu6VYEx9zgZ1p5ecv-S1wqzMXPi_-ur7DqGWlF
+修改以后进行加密： http://www.xxx.com/v3/article/info/get.json？p=nue3mra3_58=6e8wiw-uuhWCi2sOfwRHRsXMHdKmFL4AlpnuO77OXRdupg1mevaSlF_NBb1rO5V1bw9t2t4DmnzErSkDRc9NCcAW9fGaQY0S00joLpL79Zs3AqqZD52d_RavIRfu6VYEx9zgZ1p5ecv-S1wqzMXPi_-ur7DqGWlF
  
 干扰字符:W
 原始pubKey:05wxn0Xh0vgbIw1FNgYowyz7tTPeYwIDAQAB
